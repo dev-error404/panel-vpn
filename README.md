@@ -1,9 +1,9 @@
-# @MEGALODON_SSH⚡
+# @Dev VPN⚡
 
-# @MEGALODON_SSH
+# @Dev VPN
 
 *PROJETO EM BETA🍷🗿
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MEGALODON-SSH/MEGA/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/dev-error404/panel-vpn/main/ssh-plus)
 
 ```
